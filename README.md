@@ -1,6 +1,8 @@
 # Training-Management-System
 Project to manage training process in an organization. 
 
+Project status: On going. 
+
 Steps to run the code:
 1.Pull the code to the local system
 2.Add the application to virtual studio code.
